@@ -239,7 +239,7 @@ a { color: inherit; text-decoration: none; }
   border-bottom: 1px solid var(--border);
 }
 .compare-table th:first-child,
-.compare-table td:first-child { text-align: left; color: var(--text2); width: 60%; }
+.compare-table td:first-child { text-align: left; color: var(--text2); }
 .compare-table thead th {
   font-weight: 600;
   color: var(--text2);
@@ -248,8 +248,8 @@ a { color: inherit; text-decoration: none; }
   letter-spacing: 0.05em;
   vertical-align: middle;
 }
-.compare-table th.highlight { color: var(--accent2); font-size: 15px; }
-.compare-table { max-width: 560px; margin: 0 auto; }
+.compare-table th.highlight { color: var(--accent2); }
+.masked { color: var(--text2); letter-spacing: 0.05em; font-size: 13px; }
 .table-icon {
   width: 20px;
   height: 20px;
