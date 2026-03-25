@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/icon.png?v=5" width="120" alt="Endroid" />
+  <img src="assets/icon.png?v=6" width="120" alt="Endroid" />
 
   # Endroid — Free Android Emulator for Windows
 
