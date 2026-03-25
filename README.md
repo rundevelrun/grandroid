@@ -9,7 +9,7 @@
   [![License](https://img.shields.io/badge/license-Free-brightgreen)](https://github.com/rundevelrun/endroid/releases)
   [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)](https://github.com/rundevelrun/endroid/releases/latest)
 
-  **[⬇ Download Latest Version](https://github.com/rundevelrun/endroid/releases/latest)**
+  **🚧 Coming Soon — 준비중입니다**
 
 </div>
 
