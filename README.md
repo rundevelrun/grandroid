@@ -1,21 +1,22 @@
-# Endroid — Free Android Emulator for Windows
+<div align="center">
+  <img src="assets/icon.png?v=5" width="120" alt="Endroid" />
 
-> Run Android 15 apps and games on Windows for free.
+  # Endroid — Free Android Emulator for Windows
 
-[![Download](https://img.shields.io/github/v/release/rundevelrun/endroid?label=Download&color=4a9eff)](https://github.com/rundevelrun/endroid/releases/latest)
-[![License](https://img.shields.io/badge/license-Free-brightgreen)](https://github.com/rundevelrun/endroid/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)](https://github.com/rundevelrun/endroid/releases/latest)
+  > Run Android 15 apps and games on Windows for free.
 
-**Endroid** is a free Android emulator for Windows built for gamers and power users.
-Game controls, macro recording, multi-instance support — all built-in. No subscription required.
+  [![Download](https://img.shields.io/github/v/release/rundevelrun/endroid?label=Download&color=4a9eff)](https://github.com/rundevelrun/endroid/releases/latest)
+  [![License](https://img.shields.io/badge/license-Free-brightgreen)](https://github.com/rundevelrun/endroid/releases)
+  [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)](https://github.com/rundevelrun/endroid/releases/latest)
+
+  **[⬇ Download Latest Version](https://github.com/rundevelrun/endroid/releases/latest)**
+
+</div>
 
 ---
 
-## Download
-
-**[⬇ Download Latest Version](https://github.com/rundevelrun/endroid/releases/latest)**
-
-Requirements: Windows 10/11 (64-bit) · Hyper-V enabled
+**Endroid** is a free Android emulator for Windows built for gamers and power users.
+Game controls, macro recording, multi-instance support — all built-in. No subscription required.
 
 ---
 
@@ -59,12 +60,6 @@ Requirements: Windows 10/11 (64-bit) · Hyper-V enabled
 - 64-bit processor with virtualization support
 - 8GB RAM minimum (16GB recommended)
 - Hyper-V compatible hardware
-
----
-
-## Changelog
-
-See [Releases](https://github.com/rundevelrun/endroid/releases) for version history.
 
 ---
 
